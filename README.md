@@ -30,7 +30,11 @@ The core of the dashboard features a dynamic layout where users can switch betwe
     * **Monthly Trend:** A trend chart showing performance from Jan to Dec to identify seasonal peaks.
 * **Interaction:** Users can toggle between **Model 1 (SUV)**, **Model 2 (Sports)**, and **Model 3 (Classic)** to see specific data contexts or simply to browse the catalog visually.
 * **Screenshot:**
-    ![Model View](Insert_Model_Image_Link_Here)
+    ![Model 1 View](https://github.com/100rya-py/Car-Sales-Dashboard-v2/blob/main/Model%201%20Page.png)
+    ![Model 2 View](https://github.com/100rya-py/Car-Sales-Dashboard-v2/blob/main/Model%202%20Page.png)
+    ![Model 3 View](https://github.com/100rya-py/Car-Sales-Dashboard-v2/blob/main/Model%203%20Page.png)
+
+
 
 #### 2. Collapsible Slicer Panel
 To maintain a clean "Apple-style" aesthetic, I moved all filters into a hidden overlay panel.
@@ -40,7 +44,7 @@ To maintain a clean "Apple-style" aesthetic, I moved all filters into a hidden o
     * **Ship Mode:** Analysis of logistics (First Class, Standard, etc.).
     * **Customer & State:** Granular search capability to find specific client data or state-level performance.
 * **Screenshot:**
-    ![Slicer Panel](Insert_Slicer_Panel_Image_Link_Here)
+    ![Slicer Panel](https://github.com/100rya-py/Car-Sales-Dashboard-v2/blob/main/Slicer%20Panel.png)
 
 ---
 
@@ -51,7 +55,7 @@ To maintain a clean "Apple-style" aesthetic, I moved all filters into a hidden o
 
 ### 📂 Data Source
 The dataset includes sales transactions, customer demographics, and shipping details.
-* **Source:** [Insert Data Source Link Here]
+* **Source:** [https://github.com/100rya-py/Car-Sales-Dashboard-v2/blob/main/Car%20Sales%20Dashboard.pbix]
 
 ---
 
